@@ -104,7 +104,7 @@ captain-claw-mcp = "captain_claw.mcp_serve:main"
 botport = "botport.server:main"
 
 [build-system]
-requires = ["setuptools>=68.0", "wheel"]
+requires = ["setuptools>=84.1.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [tool.pytest.ini_options]
